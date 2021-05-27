@@ -1,0 +1,33 @@
+<ol>
+  <li>담다디 담다디 담다디 담~!</li>
+  <li>담다디 담다디 담다디 담~!</li>
+  <li>담다디 담다디 담다디 담~!</li>
+  <li>담다디 담다디 담다디 담~!</li>
+</ol>
+
+<h1>담다디</h1>
+담다디 담다디 담다디 담~!
+담다디 다담 담다디 담~!
+담다디 담다디 담다디 담~!
+담다디 다담 다다담~!
+
+<h1>링딩동</h1>
+Ring Ding Dong Ring Ding Dong
+Ring Diggi Ding Diggi Ding Ding Ding
+Ring Ding Dong Ring Ding Dong
+Ring Diggi Ding Diggi Ding Ding Ding
+
+Ring Ding Dong Ring Ding Dong
+Ring Diggi Ding Diggi Ding Ding Ding
+Ring Ding Dong Ring Ding Dong
+Ring Diggi Ding Diggi Ding Ding Ding
+
+<h1>빠빠빠</h1>
+걱정은 No/ 빠빠빠빠 빠빠빠빠
+고민도 No/ 빠빠빠빠 빠빠빠빠
+걱정은 No/ 빠빠빠빠 빠빠빠빠
+고민도 No/ 빠빠빠빠 빠빠빠빠
+걱정은 No/ 빠빠빠빠 빠빠빠빠
+고민도 No/ 빠빠빠빠 빠빠빠빠
+
+<h1>조까 시발아</h>
